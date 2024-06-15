@@ -1,3 +1,5 @@
+package calculator;
+
 public class CalculatorController {
     private CalculatorModel model;
     private CalculatorView view;
